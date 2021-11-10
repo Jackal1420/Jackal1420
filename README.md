@@ -1,13 +1,16 @@
 ### Hello there! 
-
 ![Hello There!](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
+
+Jackal1420 -> 
+  **JACK** + **A**u**L**abaugh + **1420**Hz (Hydrogen Line)
 
 Jack Aulabaugh - Valnior (Engineering Lead) 
 - BS in CS and Astronomy @ University of Illinois (Urbana-Champaign)
 - Android Software Developer
-- Madison WI
+- Madison, WI
 - Primary Languages I speak : Kotlin / C# / C++ / Java 
-- Book Nerd
+- Book Nerd / Sci-Fi Nerd / Hiking Nerd
+- LGBT & LGBT+ Friendly! 
 <!--
 **Jackal1420/Jackal1420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
