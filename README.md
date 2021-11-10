@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there! 
+
+!()[https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif]
 
 Jack Aulabaugh - Valnior (Engineering Lead) 
 - BS in CS and Astronomy @ University of Illinois (Urbana-Champaign)
