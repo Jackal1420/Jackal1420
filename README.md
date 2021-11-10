@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Jack Aulabaugh - Valnior (Engineering Lead) 
+- BS in CS and Astronomy @ University of Illinois (Urbana-Champaign)
+- Android Software Developer
+- Madison WI
+- Primary Languages I speak : Kotlin / C# / C++ / Java 
+- Book Nerd
 <!--
 **Jackal1420/Jackal1420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
