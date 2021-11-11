@@ -30,6 +30,10 @@ Fun Facts:
 
 ![20200213_JackJackal_7](https://user-images.githubusercontent.com/31596996/141340944-e1c7cc3e-0d4a-4a6b-8443-f36b8f9af5aa.png)
 
+- Worked
+     - iFIT Health & Fitness (2020-Present)
+     - Epic Systems Corporation (2019-2020)
+     
 - Interned 
      - NASA JPL (On Wide Area Augmentation System) 
      - NASA MSFC (On SLS Flight Software)
