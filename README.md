@@ -1,10 +1,9 @@
-### Hello there! 
 ![Hello There!](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
 Jackal1420 -> 
   **JACK** + **A**u**L**abaugh + **1420**Hz (Hydrogen Line)
 
-Jack Aulabaugh - Valnior (Engineering Lead) 
+Jack Aulabaugh (He/Him) - Valnior (Engineering Lead) 
 - BS in CS and Astronomy @ University of Illinois (Urbana-Champaign)
 - Android Software Developer
 - Madison, WI
@@ -25,3 +24,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Fun Facts: 
+
+![20200213_JackJackal_7](https://user-images.githubusercontent.com/31596996/141340944-e1c7cc3e-0d4a-4a6b-8443-f36b8f9af5aa.png)
+
+- Interned 
+     - NASA JPL (On Wide Area Augmentation System) 
+     - NASA MSFC (On SLS Flight Software)
+     - TA in Astronomy courses @ UIUC 
+     
+- Lived in 
+     - Estes Park, Colorado
+     - Fairfax, Virginia 
+     - Champaign, Illinois
+     - Madison, Wisconsin  
+
