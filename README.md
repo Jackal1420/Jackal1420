@@ -1,7 +1,7 @@
 ![Hello There!](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
 Jackal1420 -> 
-  **JACK** + **A**u**L**abaugh + **1420**Hz (Hydrogen Line)
+  **JACK** + **A**u**L**abaugh + **1420**MHz (Hydrogen Line)
 
 Jack Aulabaugh (He/Him) - Valinor (Engineering Lead) 
 - BS in CS and Astronomy @ University of Illinois (Urbana-Champaign)
