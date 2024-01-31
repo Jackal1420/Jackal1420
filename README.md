@@ -3,7 +3,7 @@
 Jackal1420 -> 
   **JACK** + **A**u**L**abaugh + **1420**Hz (Hydrogen Line)
 
-Jack Aulabaugh (He/Him) - Valnior (Engineering Lead) 
+Jack Aulabaugh (He/Him) - Valinor (Engineering Lead) 
 - BS in CS and Astronomy @ University of Illinois (Urbana-Champaign)
 - Android Software Developer
 - Madison, WI
